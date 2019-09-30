@@ -15,6 +15,14 @@ namespace ConsoleApp1
             Console.WriteLine("Input Row");
             int row = int.Parse(Console.ReadLine());
 
+            for (int i = 0;i<10;i++)
+            {
+                for (int j = 0; j < 40; j++) ;
+                Console.WriteLine("*");
+            }
+            //jsdbkjdsfkdsnfksdf
+            //dsfsdf
+            int a = 10;
 
         }
     
