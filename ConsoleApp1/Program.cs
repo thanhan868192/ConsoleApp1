@@ -20,6 +20,8 @@ namespace ConsoleApp1
                 for (int j = 0; j < 40; j++) ;
                 Console.WriteLine("*");
             }
+            //jsdbkjdsfkdsnfksdf
+            int a = 10;
 
         }
     
