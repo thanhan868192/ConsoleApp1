@@ -21,7 +21,7 @@ namespace ConsoleApp1
                 Console.WriteLine("*");
             }
             //jsdbkjdsfkdsnfksdf
-            //dsfsdf
+            //dsfsdfgvh bjbk
             int a = 10;
 
         }
